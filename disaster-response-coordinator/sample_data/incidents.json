@@ -1,0 +1,31 @@
+[
+  {
+    "raw_report": "Severe flooding near Anna Nagar Bridge in Chennai. Approximately 150 people are stranded on rooftops. The water level is rising, and several elderly people need medical assistance.",
+    "location_text": "Anna Nagar Bridge, Chennai",
+    "latitude": 13.0878,
+    "longitude": 80.2085,
+    "is_demo": true
+  },
+  {
+    "raw_report": "Major earthquake magnitude 6.5 reported in Coimbatore district. Multiple residential buildings have collapsed in the Gandhipuram area. At least 80 people are injured and 30 are missing. Rescue teams needed urgently.",
+    "location_text": "Gandhipuram, Coimbatore",
+    "is_demo": true
+  },
+  {
+    "raw_report": "Large fire broke out at a chemical storage facility near Manali industrial area, Chennai. Thick black smoke visible for kilometres. Workers trapped inside. Fire is spreading to adjacent buildings.",
+    "location_text": "Manali Industrial Area, Chennai",
+    "latitude": 13.1667,
+    "longitude": 80.2500,
+    "is_demo": true
+  },
+  {
+    "raw_report": "Cyclone warning issued for coastal Tamil Nadu. Wind speeds reaching 180 kmph expected in the next 6 hours. Cuddalore and Villupuram districts on high alert. Fishing boats advised to return to shore immediately.",
+    "location_text": "Cuddalore District, Tamil Nadu",
+    "is_demo": true
+  },
+  {
+    "raw_report": "Landslide on Ooty-Kotagiri road near Ketti Valley. Three vehicles buried under debris. 12 passengers unaccounted for. Heavy rain continues. Road completely blocked.",
+    "location_text": "Ketti Valley, Ooty Road",
+    "is_demo": true
+  }
+]
